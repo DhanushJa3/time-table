@@ -1,0 +1,8 @@
+{
+  "name": "timetable",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
